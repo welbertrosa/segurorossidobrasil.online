@@ -1,0 +1,448 @@
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\compreshopee.com\npm\slick-carousel@1.8.1\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\compreshopee.com\npm\slick-carousel@1.8.1\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\compreshopee.com\npm\slick-carousel@1.8.1\slick\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\compreshopee.com\npm\slick-carousel@1.8.1\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\npm\slick-carousel@1.8.1\slick\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\compreshopee.com\npm\slick-carousel@1.8.1\slick\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css
+File Name: C:\Downloaded Web Sites\compreshopee.com\npm\slick-carousel@1.8.1\slick\slick-theme.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css
+File Name: C:\Downloaded Web Sites\compreshopee.com\npm\slick-carousel@1.8.1\slick\slick.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\compreshopee.com\npm\slick-carousel@1.8.1\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0791/7695/8225/files/SHOPEE_KIT_OVOS_DE_PASCOA_LP.png?v=1709085233
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\files\1\0791\7695\8225\files\SHOPEE_KIT_OVOS_DE_PASCOA_LP.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0840/3514/1930/files/CRS-1.png?v=1708982065
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\files\1\0840\3514\1930\files\CRS-1.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0840/3514/1930/files/CRS-2_webp.png?v=1708982065
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\files\1\0840\3514\1930\files\CRS-2_webp.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0840/3514/1930/files/CRS-3_webp.png?v=1708982065
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\files\1\0840\3514\1930\files\CRS-3_webp.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0840/3514/1930/files/CRS-4_webp.png?v=1708982065
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\files\1\0840\3514\1930\files\CRS-4_webp.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0840/3514/1930/files/Logo-carrefour.png?v=1708982186
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\files\1\0840\3514\1930\files\Logo-carrefour.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\fancybox\3.5.7\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\fancybox\3.5.7\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\compreshopee.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\compreshopee.com\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.4.min.js
+File Name: C:\Downloaded Web Sites\compreshopee.com\jquery-3.6.4.min.js
+Content Type: application/javascript
+
+Uri: https://compreshopee.com/comments/feed/
+File Name: C:\Downloaded Web Sites\compreshopee.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://compreshopee.com/feed/
+File Name: C:\Downloaded Web Sites\compreshopee.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://compreshopee.com/produtos/kit-3-ovos-promo-pascoa/
+File Name: C:\Downloaded Web Sites\compreshopee.com\produtos\kit-3-ovos-promo-pascoa\index.htm
+Content Type: text/html
+
+Uri: https://compreshopee.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.7.3
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://compreshopee.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/x-javascript
+
+Uri: https://compreshopee.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://compreshopee.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://compreshopee.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.19.2
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://compreshopee.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.19.2
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://compreshopee.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.19.2
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://compreshopee.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.19.2
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://compreshopee.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://compreshopee.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://compreshopee.com/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\themes\twentytwentytwo\assets\fonts\source-serif-pro\SourceSerif4Variable-Italic.ttf.woff2
+Content Type: font/woff2
+
+Uri: https://compreshopee.com/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\themes\twentytwentytwo\assets\fonts\source-serif-pro\SourceSerif4Variable-Roman.ttf.woff2
+Content Type: font/woff2
+
+Uri: https://compreshopee.com/wp-content/themes/twentytwentytwo/style.css?ver=1.2
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\themes\twentytwentytwo\style.css
+Content Type: text/css
+
+Uri: https://compreshopee.com/wp-content/uploads/2024/01/cropped-Favicon32x32-180x180.png
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\uploads\2024\01\cropped-Favicon32x32-180x180.png
+Content Type: image/png
+
+Uri: https://compreshopee.com/wp-content/uploads/2024/01/cropped-Favicon32x32-192x192.png
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\uploads\2024\01\cropped-Favicon32x32-192x192.png
+Content Type: image/png
+
+Uri: https://compreshopee.com/wp-content/uploads/2024/01/cropped-Favicon32x32-32x32.png
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\uploads\2024\01\cropped-Favicon32x32-32x32.png
+Content Type: image/png
+
+Uri: https://compreshopee.com/wp-content/uploads/elementor/css/global.css?ver=1708039480
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://compreshopee.com/wp-content/uploads/elementor/css/post-2079.css?ver=1709994604
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\uploads\elementor\css\post-2079.css
+Content Type: text/css
+
+Uri: https://compreshopee.com/wp-content/uploads/elementor/css/post-5.css?ver=1708038101
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://compreshopee.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://compreshopee.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://compreshopee.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://compreshopee.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/x-javascript
+
+Uri: https://compreshopee.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://compreshopee.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://compreshopee.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://compreshopee.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://compreshopee.com/wp-json/
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://compreshopee.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcompreshopee.com%2Fkit-3-ovos-promo-pascoa%2F
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://compreshopee.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcompreshopee.com%2Fkit-3-ovos-promo-pascoa%2F&format=xml
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://compreshopee.com/wp-json/wp/v2/pages/2079
+File Name: C:\Downloaded Web Sites\compreshopee.com\wp-json\wp\v2\pages\2079
+Content Type: application/json
+
+Uri: https://compreshopee.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\compreshopee.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/2a5afa7c48cac075199d2838f3f039a4.png
+File Name: C:\Downloaded Web Sites\compreshopee.com\shopee\shopee-mobilemall-live-sg\2a5afa7c48cac075199d2838f3f039a4.png
+Content Type: image/png
+
+Uri: https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/6d600dc3c01de187608c78b052f53d22.png
+File Name: C:\Downloaded Web Sites\compreshopee.com\shopee\shopee-mobilemall-live-sg\6d600dc3c01de187608c78b052f53d22.png
+Content Type: image/png
+
+Uri: https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/7ac000f3bdcc42744eaa8bdcbcf7a574.png
+File Name: C:\Downloaded Web Sites\compreshopee.com\shopee\shopee-mobilemall-live-sg\7ac000f3bdcc42744eaa8bdcbcf7a574.png
+Content Type: image/png
+
+Uri: https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/f5f4277662e633c1f0bbb87b973d6480.png
+File Name: C:\Downloaded Web Sites\compreshopee.com\shopee\shopee-mobilemall-live-sg\f5f4277662e633c1f0bbb87b973d6480.png
+Content Type: image/png
+
+Uri: https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/rating/67fbaccf93501eb288a5.svg
+File Name: C:\Downloaded Web Sites\compreshopee.com\shopee\shopee-mobilemall-live-sg\rating\67fbaccf93501eb288a5.svg
+Content Type: image/svg+xml
+
+Uri: https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/rating/8221e9a289d23c23cef9.svg
+File Name: C:\Downloaded Web Sites\compreshopee.com\shopee\shopee-mobilemall-live-sg\rating\8221e9a289d23c23cef9.svg
+Content Type: image/svg+xml
+
+Uri: https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/rating/e795434a48ef42f9a279.svg
+File Name: C:\Downloaded Web Sites\compreshopee.com\shopee\shopee-mobilemall-live-sg\rating\e795434a48ef42f9a279.svg
+Content Type: image/svg+xml
+
+Uri: https://down-br.img.susercontent.com/file/9c4303c312a15af931f2be0ee0ca052f_tn
+File Name: C:\Downloaded Web Sites\compreshopee.com\file\9c4303c312a15af931f2be0ee0ca052f_tn
+Content Type: image/jpeg
+
+Uri: https://down-br.img.susercontent.com/file/ac49b67f72bbba17f4669e46030f38df_tn
+File Name: C:\Downloaded Web Sites\compreshopee.com\file\ac49b67f72bbba17f4669e46030f38df_tn
+Content Type: image/jpeg
+
+Uri: https://down-br.img.susercontent.com/file/br-11134233-7r98o-loyd0ajc9dg5fd_tn
+File Name: C:\Downloaded Web Sites\compreshopee.com\file\br-11134233-7r98o-loyd0ajc9dg5fd_tn
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.3
+File Name: C:\Downloaded Web Sites\compreshopee.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\compreshopee.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://projetinho.online/temporario/css/action.css
+File Name: C:\Downloaded Web Sites\compreshopee.com\temporario\css\action.css
+Content Type: text/css
+
+Uri: https://projetinho.online/temporario/css/ja34od0499fd2-dlld3--22.css
+File Name: C:\Downloaded Web Sites\compreshopee.com\temporario\css\ja34od0499fd2-dlld3--22.css
+Content Type: text/css
+
+Uri: https://projetinho.online/temporario/css/min.css
+File Name: C:\Downloaded Web Sites\compreshopee.com\temporario\css\min.css
+Content Type: text/css
+
+Uri: https://projetinho.online/temporario/img/cart-vector.svg
+File Name: C:\Downloaded Web Sites\compreshopee.com\temporario\img\cart-vector.svg
+Content Type: image/svg+xml
+
+Uri: https://projetinho.online/temporario/img/LightGray.svg
+File Name: C:\Downloaded Web Sites\compreshopee.com\temporario\img\LightGray.svg
+Content Type: image/svg+xml
+
+Uri: https://projetinho.online/temporario/img/verificado.svg
+File Name: C:\Downloaded Web Sites\compreshopee.com\temporario\img\verificado.svg
+Content Type: image/svg+xml
+
+Uri: https://www.cacaushow.com.br/on/demandware.static/Sites-CacauShow-Site/-/default/v1708950743648/images/LogoCacaushow.png
+File Name: C:\Downloaded Web Sites\compreshopee.com\on\demandware.static\Sites-CacauShow-Site\-\default\v1708950743648\images\LogoCacaushow.png
+Content Type: image/png
+
