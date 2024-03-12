@@ -1,0 +1,74 @@
+   .button-container {
+            display: flex;
+            width: 100%;
+
+
+        }
+
+        .button {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+        }
+
+        .blue-button {
+            background-color: #00bfa5;
+            color: white;
+            padding-left: 0px;
+            padding-right:0px;
+}
+        
+
+        .blue-button:first-child {
+            width: 22%;
+            /* Largura do primeiro botão ajustada para 20% */
+        
+        }
+
+        .blue-button:last-child {
+            width: 30%;
+            /* Largura do segundo botão ajustada para 30% */
+        }
+
+        .blue-button svg,
+        .blue-button span {
+            fill: white;
+        }
+
+        .blue-button span {
+            font-size: 9px;
+        }
+
+        .orange-button {
+            background-color: #ee4d2d;
+            width: 50%;
+            /* Largura do terceiro botão mantida em 50% */
+            font-size: 15px;
+        }
+
+        /* Ajustes para SVGs */
+        .button svg {
+            fill: white;
+            /* Cor do SVG */
+            height: 20px;
+            /* Ajuste conforme necessário */
+            width: 20px;
+            /* Ajuste conforme necessário */
+        }
+
+        .imagem-container {
+            overflow: hidden;
+            width: 23px;
+            height: 23px;
+        }
+
+        .imagem-container img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
